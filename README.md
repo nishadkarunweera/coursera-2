@@ -1,2 +1,2 @@
 # coursera-2
-E-learing
+E-learning
